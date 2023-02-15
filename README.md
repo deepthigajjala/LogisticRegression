@@ -33,6 +33,6 @@ This case study will focus on the underwriting process behind Personal Loan only
 10. By using IQR Method I removed outliers.
 11. I ran Logistic model and decided best value for lambda.
 12. By using the best lambda value I trained the model and tested it.
-13. I got training score as 0.882and test score as 0.881.
+13. I got training score as 0.882and test Precision score as 0.881.
 14. I calculated the weights of each column.
 15. ROC Curve and confusion matrix looks fine.
